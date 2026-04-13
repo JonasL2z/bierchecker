@@ -1,2 +1,2 @@
 # bierchecker
-Uri and Friends :))
+Is ada cool?
